@@ -5,13 +5,24 @@ Cybersecurity Specialist with a strong foundation in threat detection, incident 
 - M.S.c Industrial & Systems Engineering | North Carolina A&T State University (_Dec 2024_)
 
 ### Professional Certification
+- CompTIA Security+- 2025
 - Google Cybersecurity - 2025 
 - AWS Certified Solutions Architect Associate - 2024 
 - AWS Certified Cloud Practitioner - 2022
-- CompTIA Security+- 2021
+
 
 ### Skills Summary
-Python | SQL | Siem Tools | IDSP/IPS | Network Security | Information Security | NIST - Cybersecurity Framework | Operating Systems | Cloud Computing |Infrastructure as Code | Configuration Management | Azure | AWS| GCP | Problem-Solving | Collaboration & Communication | Containerization & Orchestration | Version Control | Networking & Security | Monitoring |, Databases & Storage | Logging Adaptability | Continuous Learning | Project Management | IT Support Tools | Scripting & Automation | DEVOPS Tools |
+- Security Frameworks &amp; Standards: NIST, ISO 27001, CIS Benchmarks
+- Cloud Security: AWS, Azure
+- Incident Response: Investigation, containment, eradication, recovery
+- ulnerability Management: Identification, assessment, remediation
+- Security Tools: SIEM, IDS/IPS, firewalls, antivirus software
+- Scripting &amp; Automation: Python, PowerShell
+- Operating Systems: Windows, Linux
+- Network Security: TCP/IP, firewalls, VPNs
+- Agile Methodologies: Scrum, Kanban
+- IT Governance: Policies, procedures, standards
+- Communication &amp; Collaboration: Written, verbal, presentation skills
 
 ### Work Experience
 **Cybersecurity Analyst @ Thomas Jefferson University Hospital (_May 2024 - Present_)**
